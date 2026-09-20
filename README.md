@@ -1,1 +1,1 @@
-# mlops-git-tretyakov
+﻿Project status: draft
